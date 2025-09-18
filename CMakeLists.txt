@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31)
+cmake_minimum_required(VERSION 3.10)
 project(prog2_2025_2_punteros_arreglos)
 
 set(CMAKE_CXX_STANDARD 20)
